@@ -5,6 +5,8 @@ This repository presents everything necessary for the modeling component of Konk
 
 Here is a readme prepared by Adam Konkol on November 8, 2021
 
+For the code to function properly, you will need to also download and unzip the data in the supplement Repository_final.zip. This will allow the code to analyze the natural channel networks in addition to creating and analyzing simulations.
+
 analyze.py: primarily for analysing pial vascular simulations
 
 geometry.py: legacy code, I never used it
